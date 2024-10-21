@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+basemap
+scikit-learn
+plotly
+tensorflow
+datetime
